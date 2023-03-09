@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuğçe Özdemir</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate full stack developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif">
 
 - 📫 How to reach me **tugceozdemiir@hotmail.com**
